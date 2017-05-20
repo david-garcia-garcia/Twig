@@ -1,4 +1,4 @@
-version: '4.0.4.{build}'
+version: '2.3.2.{build}'
 
 build: false
 environment:
