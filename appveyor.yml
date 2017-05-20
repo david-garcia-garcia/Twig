@@ -27,7 +27,7 @@ matrix:
     allow_failures:
         - platform: x64
 
-clone_folder: c:\projects\tideways
+clone_folder: c:\projects\twig
 
 os: Windows Server 2012 R2
 
